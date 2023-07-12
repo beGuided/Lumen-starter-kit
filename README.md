@@ -1,3 +1,3 @@
-composer install
-php artisan jwt:secret
-php artisan serve
+## composer install
+## php artisan jwt:secret
+## php artisan serve
